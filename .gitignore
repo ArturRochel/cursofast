@@ -1,0 +1,47 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+.env/
+
+# Arquivos de configuração/segredo
+*.env
+*.env.*
+.envrc
+
+# Logs e temporários
+*.log
+*.tmp
+*.temp
+
+# --- VS Code ---
+.vscode/
+
+# --- Sistemas Operacionais ---
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.nfs*
+
+# --- Diversos ---
+# Arquivos de backup do editor
+*.swp
+*.swo
+*.bak
