@@ -45,3 +45,6 @@ $RECYCLE.BIN/
 *.swp
 *.swo
 *.bak
+
+# banco de dados
+*.db
